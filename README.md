@@ -2,7 +2,7 @@
 
 ### About me:
 
-I am a FullStack Mobile App developer, I majorly work with Flutter, NodeJS, Golang, Docker, and NGINX, Kubernetes and, I'm exploring Web3.
+I am a NodeJS-Golang Backend Developer with experience in Flutter & Cloud as well and, I'm exploring Web3.
 
 I'm looking for full-time Remote Jobs.
 
@@ -10,7 +10,8 @@ I like finance and can go on talking for hours about Investment, Personal Financ
 
 Being a community person and like to be a part of communities and give back to the community. I love sharing my experiences via [talks](https://wilfredalmeida.com/talks), [blogs](https://blog.wilfredalmeida.com/), and [tweets](https://twitter.com/WilfredAlmeida_).
 
-I am an open-source enthusiast and developed and looking for community support for [MobXcess](https://blog.wilfredalmeida.com/mobxcess-purpose).
+I am an open-source enthusiast and developed:
+- `unkey-go`: Go SDK for [unkey](https://github.com/unkeyed/unkey/)
 
 ### Important Links
 
@@ -31,11 +32,9 @@ I am an open-source enthusiast and developed and looking for community support f
     
 * **Backend**: Golang, NodeJS
     
-* **Cloud**: Linux, NGINX
+* **Cloud**: Linux, NGINX, Docker
     
-* **DevOps**: ArgoCD, Docker, Harbor, Kubernetes
-    
-* **Databases**: Firebase, MongoDB, MySQL
+* **Databases**: Firebase, MongoDB, Postgres
     
 * **Platforms**: Cloudflare, GitHub Actions
     
@@ -46,6 +45,8 @@ I am an open-source enthusiast and developed and looking for community support f
 
 | Project | Description | Tech Stack | Source Code |
 | --- | --- | --- | --- |
+| Rusly | Rust+SQLite URL Shortener | Rust Rocket, SQLite, Railway | [Repo](https://github.com/WilfredAlmeida/rusly) |
+| ChauturMail | AI Email Generator | Flutter, NodeJS, MongoDB, GitHub Actions, ArgoCD, Harbor Container Registry, Kubernetes, NGINX, Cloudflare | [Backend](https://github.com/WilfredAlmeida/ChaturMailBackend), [Frontend](https://github.com/WilfredAlmeida/ChaturMailFlutter) |
 | ShopApp | E-Commerce Shop App built using Flutter and Firebase aimed at small-scale local businesses | Flutter, Firebase | [Repo](https://github.com/WilfredAlmeida/ShopApp) |
 | FlutterWeather | Flutter Weather App with Firebase Phone Authentication | Flutter, Firebase | [Repo](https://github.com/WilfredAlmeida/FlutterWeather) |
 | RedditScrapeAPI | Wrapper over the official Reddit API that returns posts from any specified subreddit | JavaScript | [Repo](https://github.com/WilfredAlmeida/RedditScrapeAPI) |
