@@ -53,6 +53,7 @@ I am an open-source enthusiast and developed/contributed to:
 | CAPI | Solana cNFT API as a Service | Metaplex, Bubblegum, Helius, TypeScript, Supabase | [Repo](https://github.com/WilfredAlmeida/capi) |
 | MSOL | Short Name Service (SNS) for Solana | Svelte, Vercel KV | [Repo](https://github.com/WilfredAlmeida/msol-sns), [Demo](https://msol-sns.vercel.app/) |
 | Rusly | Rust+SQLite URL Shortener | Rust Rocket, SQLite, Railway | [Repo](https://github.com/WilfredAlmeida/rusly) |
+| MobXcess | Secure Server access from Mobile Devices | Flutter, Go, AES | [Frontend](https://github.com/WilfredAlmeida/MobXcess-Frontend-Flutter), [Backend](https://github.com/WilfredAlmeida/MobXcess-Backend-Golang) |
 | ChauturMail | AI Email Generator | Flutter, NodeJS, MongoDB, GitHub Actions, ArgoCD, Harbor Container Registry, Kubernetes, NGINX, Cloudflare | [Backend](https://github.com/WilfredAlmeida/ChaturMailBackend), [Frontend](https://github.com/WilfredAlmeida/ChaturMailFlutter) |
 | ShopApp | E-Commerce Shop App built using Flutter and Firebase aimed at small-scale local businesses | Flutter, Firebase | [Repo](https://github.com/WilfredAlmeida/ShopApp) |
 | FlutterWeather | Flutter Weather App with Firebase Phone Authentication | Flutter, Firebase | [Repo](https://github.com/WilfredAlmeida/FlutterWeather) |
