@@ -2,16 +2,19 @@
 
 ### About me:
 
-I am a NodeJS-Golang Backend Developer with experience in Flutter & Cloud as well and, I'm exploring Web3.
+I am a NodeJS-Golang Backend Developer with experience in Flutter & Cloud as well as, Solana.
 
 I'm looking for full-time Remote Jobs.
 
 I like finance and can go on talking for hours about Investment, Personal Finance, Stock Markets, Global Economies, etc.
 
-Being a community person and like to be a part of communities and give back to the community. I love sharing my experiences via [talks](https://wilfredalmeida.com/talks), [blogs](https://blog.wilfredalmeida.com/), and [tweets](https://twitter.com/WilfredAlmeida_).
+I am a community person and like to be a part of communities and give back to the community. I love sharing my experiences via [talks](https://wilfredalmeida.com/talks), [blogs](https://blog.wilfredalmeida.com/), and [tweets](https://twitter.com/WilfredAlmeida_).
 
-I am an open-source enthusiast and developed:
-- `unkey-go`: Go SDK for [unkey](https://github.com/unkeyed/unkey/)
+I am an open-source enthusiast and developed/contributed to:
+- `unkey`: Open source API key management platform [unkey](https://github.com/unkeyed/unkey/)
+- `unkey-go`: Go SDK for Unkey
+- `Jonxslays/unkey`: Rust SDK for [unkey](https://github.com/Jonxslays/unkey/)
+- `goharbor/harbor`: CNCF [Harbor](https://github.com/goharbor/harbor/), Open source container registry
 
 ### Important Links
 
@@ -39,12 +42,16 @@ I am an open-source enthusiast and developed:
 * **Platforms**: Cloudflare, GitHub Actions
     
 * **Tools**: Git, Lens, Postman
+  
+* **Blockchain**: Solana
     
 
-### Miscellaneous Projects
+### Projects
 
 | Project | Description | Tech Stack | Source Code |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
+| CAPI | Solana cNFT API as a Service | Metaplex, Bubblegum, Helius, TypeScript, Supabase | [Repo](https://github.com/WilfredAlmeida/capi) |
+| MSOL | Short Name Service (SNS) for Solana | Svelte, Vercel KV | [Repo](https://github.com/WilfredAlmeida/msol-sns), [Demo](https://msol-sns.vercel.app/) |
 | Rusly | Rust+SQLite URL Shortener | Rust Rocket, SQLite, Railway | [Repo](https://github.com/WilfredAlmeida/rusly) |
 | ChauturMail | AI Email Generator | Flutter, NodeJS, MongoDB, GitHub Actions, ArgoCD, Harbor Container Registry, Kubernetes, NGINX, Cloudflare | [Backend](https://github.com/WilfredAlmeida/ChaturMailBackend), [Frontend](https://github.com/WilfredAlmeida/ChaturMailFlutter) |
 | ShopApp | E-Commerce Shop App built using Flutter and Firebase aimed at small-scale local businesses | Flutter, Firebase | [Repo](https://github.com/WilfredAlmeida/ShopApp) |
