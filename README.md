@@ -50,6 +50,7 @@ I am an open-source enthusiast and developed/contributed to:
 
 | Project | Description | Tech Stack | Source Code |
 | :---: | :---: | :---: | :---: |
+| UnderMail | MailChimp of Solana with cNFTs | Sveltekit, Underdog Protocol | [Repo](https://github.com/WilfredAlmeida/undermail) |
 | CAPI | Solana cNFT API as a Service | Metaplex, Bubblegum, Helius, TypeScript, Supabase | [Repo](https://github.com/WilfredAlmeida/capi) |
 | MSOL | Short Name Service (SNS) for Solana | Svelte, Vercel KV | [Repo](https://github.com/WilfredAlmeida/msol-sns), [Demo](https://msol-sns.vercel.app/) |
 | Rusly | Rust+SQLite URL Shortener | Rust Rocket, SQLite, Railway | [Repo](https://github.com/WilfredAlmeida/rusly) |
